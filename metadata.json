@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere 3D",
+  "description": "Immersive 3D weather app featuring animated environment backgrounds, real-time precipitation effects, interactive gyro parallax, and global forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
